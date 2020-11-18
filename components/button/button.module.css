@@ -1,0 +1,14 @@
+.button {
+  padding: 0.7rem 1rem;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+}
+.button:hover {
+  opacity: 0.5;
+}
+
+.primary {
+  background: black;
+  color: white;
+}
